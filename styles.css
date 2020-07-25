@@ -226,7 +226,7 @@ footer img {
     grid-column: 3/7;
   }
   .projects a * {
-s    max-width: 60%;
+    max-width: 60%;
     margin: 10px 20%;
   }
   .projects h4 {
@@ -290,18 +290,17 @@ s    max-width: 60%;
     margin: 10px 10%;
   }
   #skills {
-      padding: 30px 20px;
-
+    padding: 30px 20px;
   }
   #skills ul {
-      margin: 40px auto;
+    margin: 40px auto;
   }
   #skills li {
-      grid-column: span 2;
+    grid-column: span 2;
   }
   footer {
-      padding: 40px 20px;
-      background-size: 25%;
+    padding: 40px 20px;
+    background-size: 25%;
   }
 }
 
